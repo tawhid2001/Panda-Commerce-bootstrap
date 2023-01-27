@@ -1,0 +1,15 @@
+.bg-color {
+    background-color: #FEEAE9;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.btn-style {
+    background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
